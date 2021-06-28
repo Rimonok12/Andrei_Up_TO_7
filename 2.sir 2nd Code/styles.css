@@ -1,0 +1,58 @@
+*{
+    text-align:right;
+}
+
+
+
+body{ 
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/25/81/104/digital-art-abstract-minimalism-black-wallpaper-preview.jpg);
+    background-size: cover; 
+}
+
+
+h2 p:hover{
+    color:#AA4139;
+    text-align:center;
+    border: 5px solid rgba(255, 176, 170,0.5);
+    cursor:pointer;
+}
+p {
+    color:rgb(228, 228, 228);
+}
+img{
+    float:right;
+}
+footer{
+    clear: both;
+    text-align:center;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+
+li{
+    list-style: none;
+    display:inline-block;
+}
+.webText{
+    border: 5px dashed green;
+}
+.active{
+    color:rgb(156, 151, 151);
+}
+#div1{
+    background:rgb(0, 0, 255);
+}
+#div2 {
+    background: rgb(255, 0, 0,0.2);
+}
+
+p {
+    /* text-decoration: underline;
+    text-transform: uppercase; */
+    line-height: 25px;
+    font-weight:thin;
+    /* text-align: left; */
+    font-size:120%;
+    font-family: 'Akaya Telivigala',cursive;
+}
