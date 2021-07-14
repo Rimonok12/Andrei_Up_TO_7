@@ -8,7 +8,6 @@ body{
     height:100vh;
     display:flex;
     align-items:center;
-    justify-content:center;
     background:linear-gradient(to top, rgb(80, 234, 245),rgb(222, 224, 77));
 }
 h1{
