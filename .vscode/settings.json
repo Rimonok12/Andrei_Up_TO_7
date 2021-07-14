@@ -1,0 +1,41 @@
+{
+    "fontAwesomeAutocomplete.disableTriggerWordAutoClearPatterns": [
+
+        "**/*.html"
+    ],
+        "editor.fontFamily": "'Cascadia code'",
+    "editor.fontWeight":"bold",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#8c0b36",
+        "editor.background": "#2d223d",
+        "activityBar.activeBackground": "#8c0b36",
+        "activityBar.activeBorder": "#000000",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#000000",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#5d0724",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#8c0b36",
+        "titleBar.activeBackground": "#5d0724",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#5d072499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "editor.tokenColorCustomizations": {
+            "variables": "#7bff5a",
+
+            "types": "#fbff00",
+
+            "functions": "#00fff2",
+
+            // "keywords": "#f32400d8",
+           
+        
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    "peacock.color": "#5d0724",
+}
